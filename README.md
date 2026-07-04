@@ -1,3 +1,3 @@
 # vikas-demo
 This is my first git repository.
-Aythor - vikas zarpala
+Author - vikas zarpala
